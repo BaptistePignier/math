@@ -1,0 +1,1 @@
+longueur_darc : calcul la longeur d'un arc de fonction donnée sur in tervalle d'abscisse 
